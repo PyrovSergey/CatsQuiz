@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Guess the cat breed</string>
+
+    <string name="persian">Persian</string>
+    <string name="chartreux">Chartreux</string>
+    <string name="british_shorthair">British shorthair</string>
+    <string name="ragamuffin">Ragamuffin</string>
+    <string name="munchkin">Munchkin</string>
+    <string name="exotic_shorthair">Exotic shorthair</string>
+    <string name="bengal">Bengal</string>
+    <string name="birman">Birman</string>
+    <string name="siberian">Siberian</string>
+    <string name="snowshoe">Snowshoe</string>
+    <string name="abyssinian">Abyssinian</string>
+    <string name="aegean">Aegean</string>
+    <string name="american">American Bobtail</string>
+    <string name="asian">Asian</string>
+    <string name="bambino">Bambino</string>
+    <string name="bombay">Bombay</string>
+    <string name="brazilian_shorthair">Brazilian Shorthair</string>
+    <string name="british_semi_longhair">British Semi-longhair</string>
+    <string name="burmese">Burmese</string>
+    <string name="california_spangled">California Spangled</string>
+    <string name="chantilly_tiffany">Chantilly-Tiffany</string>
+    <string name="chausie">Chausie</string>
+    <string name="cyprus">Cyprus</string>
+    <string name="egyptian_mau">Egyptian Mau</string>
+    <string name="european_shorthair">European Shorthair</string>
+    <string name="german_rex">German Rex</string>
+    <string name="highlander">Highlander</string>
+    <string name="japanese_bobtail">Japanese Bobtail</string>
+    <string name="javanese">Javanese</string>
+    <string name="khao_manee">Khao Manee</string>
+    <string name="laperm">LaPerm</string>
+    <string name="lykoi">Lykoi</string>
+    <string name="minskin">Minskin</string>
+    <string name="ocicat">Ocicat</string>
+    <string name="oriental_bicolor">Oriental Bicolor</string>
+    <string name="peterbald">Peterbald</string>
+    <string name="ragdoll">Ragdoll</string>
+    <string name="singapura">Singapura</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
